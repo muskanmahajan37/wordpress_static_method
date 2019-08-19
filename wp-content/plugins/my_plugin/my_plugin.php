@@ -15,7 +15,7 @@ class Singleton
         add_action('init', [__CLASS__,'payload']);
     }
 
-    // unused element возникает здесь
+    // unused element возникает здесь, скриншот - https://yadi.sk/i/IonRVDW0-ECdPA
     public static function payload(){
 
     }
